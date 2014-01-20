@@ -3,4 +3,4 @@ dpraddmad
 
 Adds uses for MadExcept units to a given Delphi .dpr file.
 
-Usage: dpraddmad <project.dpr>
+Usage: dpraddmad &lt;project.dpr&gt;
