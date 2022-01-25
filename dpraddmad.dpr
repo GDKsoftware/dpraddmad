@@ -13,7 +13,6 @@ var
   lstDpr: TStrings;
   sDprFile: string;
   i: integer;
-  x, c: integer;
 begin
   lstDpr := TStringList.Create;
   try
